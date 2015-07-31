@@ -1,0 +1,19 @@
+{
+  "name": "contatooh",
+  "version": "0.0.0",
+  "authors": [
+    "Vagner Dutra <vagnerdutra@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.3",
+    "angular": "~1.4.3"
+  }
+}
