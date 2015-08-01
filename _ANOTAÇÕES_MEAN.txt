@@ -1,5 +1,0 @@
-#ANOTAÇÕES MEAN
-
-promise 	-> Trabalha com solicitações assíncronas
-$http		-> Requisições do tipo AJAX
-resource 	-> $http de alto nível do Angular Js
